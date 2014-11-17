@@ -1,0 +1,76 @@
+//thumb top
+setAttr "fingers:curve24.rotateZ" -30.354;
+setAttr "fingers:curve24.rotateX" 12.525;
+setAttr "fingers:curve24.rotateY" -61.743;
+//thumb second
+setAttr "fingers:curve25.rotateZ" -24.58;
+setAttr "fingers:curve25.rotateX" 2.692;
+setAttr "fingers:curve25.rotateY" -47.804;
+//thumb third
+setAttr "fingers:curve26.rotateZ" 9.107;
+setAttr "fingers:curve26.rotateX" -17.757;
+setAttr "fingers:curve26.rotateY" -27.668;
+//pointer one
+setAttr "fingers:curve27.rotateZ" 84.68;
+setAttr "fingers:curve27.rotateX" -73.73;
+setAttr "fingers:curve27.rotateY" -6.792;
+//pointer two
+setAttr "fingers:curve28.rotateZ" 23.472;
+setAttr "fingers:curve28.rotateX" -22.218;
+setAttr "fingers:curve28.rotateY" -37.28;
+//pointer three
+setAttr "fingers:curve29.rotateZ" 8.794;
+setAttr "fingers:curve29.rotateX" -21.129;
+setAttr "fingers:curve29.rotateY" -28.823;
+//mid one
+setAttr "fingers:curve32.rotateZ" 111.978;
+setAttr "fingers:curve32.rotateX" -59.653;
+setAttr "fingers:curve32.rotateY" -17.659;
+//mid two
+setAttr "fingers:curve31.rotateZ" 29.706;
+setAttr "fingers:curve31.rotateX" -13.728;
+setAttr "fingers:curve31.rotateY" -11.301;
+//mid three
+setAttr "fingers:curve30.rotateZ" 0;
+setAttr "fingers:curve30.rotateX" 0;
+setAttr "fingers:curve30.rotateY" 0;
+//ring one
+setAttr "fingers:curve35.rotateZ" 93.866;
+setAttr "fingers:curve35.rotateX" -40.777;
+setAttr "fingers:curve35.rotateY" -9.534;
+//ring two
+setAttr "fingers:curve34.rotateZ" 64.429;
+setAttr "fingers:curve34.rotateX" -19.32;
+setAttr "fingers:curve34.rotateY" -26.363;
+//ring three
+setAttr "fingers:curve33.rotateZ" -12.878;
+setAttr "fingers:curve33.rotateX" -0.512;
+setAttr "fingers:curve33.rotateY" 5.902;
+//pinky one 
+setAttr "fingers:curve36.rotateZ" 97.929;
+setAttr "fingers:curve36.rotateX" -29.012;
+setAttr "fingers:curve36.rotateY" -6.929;
+//pinky two 
+setAttr "fingers:curve38.rotateZ" 47.325;
+setAttr "fingers:curve38.rotateX" 6.481;
+setAttr "fingers:curve38.rotateY" -17.874;
+//pinky three
+setAttr "fingers:curve37.rotateZ" 52.783;
+setAttr "fingers:curve37.rotateX" 8.331;
+setAttr "fingers:curve37.rotateY" -7.282;
+//select all curves on hand
+select -tgl fingers:curve24 ;
+select -tgl fingers:curve25 ;
+select -tgl fingers:curve26 ;
+select -tgl fingers:curve27 ;
+select -tgl fingers:curve28 ;
+select -tgl fingers:curve29 ;
+select -tgl fingers:curve32 ;
+select -tgl fingers:curve31 ;
+select -tgl fingers:curve30 ;
+select -tgl fingers:curve35 ;
+select -tgl fingers:curve34 ;
+select -tgl fingers:curve33 ;
+select -tgl fingers:curve36 ;
+select -tgl fingers:curve38 ;
+select -tgl fingers:curve37 ;

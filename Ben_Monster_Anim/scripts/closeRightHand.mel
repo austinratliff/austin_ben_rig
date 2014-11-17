@@ -1,0 +1,76 @@
+//thumb top
+setAttr "curve24.rotateZ" -27.046;
+setAttr "curve24.rotateX" -8.776;
+setAttr "curve24.rotateY" -36.039;
+//thumb second
+setAttr "curve25.rotateZ" -26.668;
+setAttr "curve25.rotateX" -2.446;
+setAttr "curve25.rotateY" -33.668;
+//thumb third
+setAttr "curve26.rotateZ" -32.578;
+setAttr "curve26.rotateX" 11.281;
+setAttr "curve26.rotateY" -25.870;
+//pointer one
+setAttr "curve27.rotateZ" 78.153;
+setAttr "curve27.rotateX" -67.03;
+setAttr "curve27.rotateY" -7.43;
+//pointer two
+setAttr "curve28.rotateZ" 31.972;
+setAttr "curve28.rotateX" -46.21;
+setAttr "curve28.rotateY" -23.344;
+//pointer three
+setAttr "curve29.rotateZ" -2.723;
+setAttr "curve29.rotateX" 10.416;
+setAttr "curve29.rotateY" 16.691;
+//mid one
+setAttr "curve32.rotateZ" 102.667;
+setAttr "curve32.rotateX" -49.218;
+setAttr "curve32.rotateY" -39.654;
+//mid two
+setAttr "curve31.rotateZ" 49.138;
+setAttr "curve31.rotateX" -12.162;
+setAttr "curve31.rotateY" -18.829;
+//mid three
+setAttr "curve30.rotateZ" 12.482;
+setAttr "curve30.rotateX" -0.153;
+setAttr "curve30.rotateY" -3.887;
+//ring one
+setAttr "curve35.rotateZ" 76.878;
+setAttr "curve35.rotateX" -23.768;
+setAttr "curve35.rotateY" -15.288;
+//ring two
+setAttr "curve34.rotateZ" 90.919;
+setAttr "curve34.rotateX" -36.125;
+setAttr "curve34.rotateY" -8.69;
+//ring three
+setAttr "curve33.rotateZ" 0;
+setAttr "curve33.rotateX" 0;
+setAttr "curve33.rotateY" 0;
+//pinky one 
+setAttr "curve36.rotateZ" 95.17;
+setAttr "curve36.rotateX" -7.238;
+setAttr "curve36.rotateY" 17.959;
+//pinky two 
+setAttr "curve38.rotateZ" 61.188;
+setAttr "curve38.rotateX" -34.018;
+setAttr "curve38.rotateY" -2.188;
+//pinky three
+setAttr "curve37.rotateZ" 22.304;
+setAttr "curve37.rotateX" -8.355;
+setAttr "curve37.rotateY" -0.967;
+//select hand curves
+select -tgl curve24 ;
+select -tgl curve25 ;
+select -tgl curve26 ;
+select -tgl curve27 ;
+select -tgl curve28 ;
+select -tgl curve29 ;
+select -tgl curve32 ;
+select -tgl curve31 ;
+select -tgl curve30 ;
+select -tgl curve35 ;
+select -tgl curve34 ;
+select -tgl curve33 ;
+select -tgl curve36 ;
+select -tgl curve38 ;
+select -tgl curve37 ;

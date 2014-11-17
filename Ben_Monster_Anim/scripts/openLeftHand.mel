@@ -1,0 +1,121 @@
+//thumb top
+setAttr "fingers:curve24.rotateZ" 0;
+setAttr "fingers:curve24.translateX" 0;
+setAttr "fingers:curve24.translateY" 0;
+setAttr "fingers:curve24.translateZ" 0;
+setAttr "fingers:curve24.rotateX" 0;
+setAttr "fingers:curve24.rotateY" 0;
+setAttr "fingers:curve25.rotateZ" 0;
+//thumb second
+setAttr "fingers:curve25.translateX" 0;
+setAttr "fingers:curve25.translateY" 0;
+setAttr "fingers:curve25.translateZ" 0;
+setAttr "fingers:curve25.rotateX" 0;
+setAttr "fingers:curve25.rotateY" 0;
+//thumb third
+setAttr "fingers:curve26.rotateZ" 0;
+setAttr "fingers:curve26.translateX" 0;
+setAttr "fingers:curve26.translateY" 0;
+setAttr "fingers:curve26.translateZ" 0;
+setAttr "fingers:curve26.rotateX" 0;
+setAttr "fingers:curve26.rotateY" 0;
+//pointer one
+setAttr "fingers:curve27.rotateZ" 0;
+setAttr "fingers:curve27.translateX" 0;
+setAttr "fingers:curve27.translateY" 0;
+setAttr "fingers:curve27.translateZ" 0;
+setAttr "fingers:curve27.rotateX" 0;
+setAttr "fingers:curve27.rotateY" 0;
+//pointer two
+setAttr "fingers:curve28.rotateZ" 0;
+setAttr "fingers:curve28.translateX" 0;
+setAttr "fingers:curve28.translateY" 0;
+setAttr "fingers:curve28.translateZ" 0;
+setAttr "fingers:curve28.rotateX" 0;
+setAttr "fingers:curve28.rotateY" 0;
+//pointer three
+setAttr "fingers:curve29.rotateZ" 0;
+setAttr "fingers:curve29.translateX" 0;
+setAttr "fingers:curve29.translateY" 0;
+setAttr "fingers:curve29.translateZ" 0;
+setAttr "fingers:curve29.rotateX" 0;
+setAttr "fingers:curve29.rotateY" 0;
+//mid one
+setAttr "fingers:curve32.rotateZ" 0;
+setAttr "fingers:curve32.translateX" 0;
+setAttr "fingers:curve32.translateY" 0;
+setAttr "fingers:curve32.translateZ" 0;
+setAttr "fingers:curve32.rotateX" 0;
+setAttr "fingers:curve32.rotateY" 0;
+//mid two
+setAttr "fingers:curve31.rotateZ" 0;
+setAttr "fingers:curve31.translateX" 0;
+setAttr "fingers:curve31.translateY" 0;
+setAttr "fingers:curve31.translateZ" 0;
+setAttr "fingers:curve31.rotateX" 0;
+setAttr "fingers:curve31.rotateY" 0;
+//mid three
+setAttr "fingers:curve30.rotateZ" 0;
+setAttr "fingers:curve30.translateX" 0;
+setAttr "fingers:curve30.translateY" 0;
+setAttr "fingers:curve30.translateZ" 0;
+setAttr "fingers:curve30.rotateX" 0;
+setAttr "fingers:curve30.rotateY" 0;
+//ring one
+setAttr "fingers:curve35.rotateZ" 0;
+setAttr "fingers:curve35.translateX" 0;
+setAttr "fingers:curve35.translateY" 0;
+setAttr "fingers:curve35.translateZ" 0;
+setAttr "fingers:curve35.rotateX" 0;
+setAttr "fingers:curve35.rotateY" 0;
+//ring two
+setAttr "fingers:curve34.rotateZ" 0;
+setAttr "fingers:curve34.translateX" 0;
+setAttr "fingers:curve34.translateY" 0;
+setAttr "fingers:curve34.translateZ" 0;
+setAttr "fingers:curve34.rotateX" 0;
+setAttr "fingers:curve34.rotateY" 0;
+//ring three
+setAttr "fingers:curve33.rotateZ" 0;
+setAttr "fingers:curve33.translateX" 0;
+setAttr "fingers:curve33.translateY" 0;
+setAttr "fingers:curve33.translateZ" 0;
+setAttr "fingers:curve33.rotateX" 0;
+setAttr "fingers:curve33.rotateY" 0;
+//pinky one 
+setAttr "fingers:curve36.rotateZ" 0;
+setAttr "fingers:curve36.translateX" 0;
+setAttr "fingers:curve36.translateY" 0;
+setAttr "fingers:curve36.translateZ" 0;
+setAttr "fingers:curve36.rotateX" 0;
+setAttr "fingers:curve36.rotateY" 0;
+//pinky two 
+setAttr "fingers:curve38.rotateZ" 0;
+setAttr "fingers:curve38.translateX" 0;
+setAttr "fingers:curve38.translateY" 0;
+setAttr "fingers:curve38.translateZ" 0;
+setAttr "fingers:curve38.rotateX" 0;
+setAttr "fingers:curve38.rotateY" 0;
+//pinky three
+setAttr "fingers:curve37.rotateZ" 0;
+setAttr "fingers:curve37.translateX" 0;
+setAttr "fingers:curve37.translateY" 0;
+setAttr "fingers:curve37.translateZ" 0;
+setAttr "fingers:curve37.rotateX" 0;
+setAttr "fingers:curve37.rotateY" 0;
+//select all hand curves
+select -tgl fingers:curve24 ;
+select -tgl fingers:curve25 ;
+select -tgl fingers:curve26 ;
+select -tgl fingers:curve27 ;
+select -tgl fingers:curve28 ;
+select -tgl fingers:curve29 ;
+select -tgl fingers:curve32 ;
+select -tgl fingers:curve31 ;
+select -tgl fingers:curve30 ;
+select -tgl fingers:curve35 ;
+select -tgl fingers:curve34 ;
+select -tgl fingers:curve33 ;
+select -tgl fingers:curve36 ;
+select -tgl fingers:curve38 ;
+select -tgl fingers:curve37 ;

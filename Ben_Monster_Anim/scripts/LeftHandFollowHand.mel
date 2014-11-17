@@ -1,0 +1,9 @@
+select -r anim_l_wrist;
+
+setAttr "anim_l_wrist_parentConstraint1.anim_root_controlW0" 0;
+
+window -width 150;
+columnLayout -adjustableColumn true;
+    text -label "You Changed follow to wrist";
+
+showWindow;

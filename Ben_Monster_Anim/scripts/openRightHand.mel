@@ -1,0 +1,121 @@
+//thumb top
+setAttr "curve24.rotateZ" 0;
+setAttr "curve24.translateX" 0;
+setAttr "curve24.translateY" 0;
+setAttr "curve24.translateZ" 0;
+setAttr "curve24.rotateX" 0;
+setAttr "curve24.rotateY" 0;
+//thumb second
+setAttr "curve25.rotateZ" 0;
+setAttr "curve25.translateX" 0;
+setAttr "curve25.translateY" 0;
+setAttr "curve25.translateZ" 0;
+setAttr "curve25.rotateX" 0;
+setAttr "curve25.rotateY" 0;
+//thumb third
+setAttr "curve26.rotateZ" 0;
+setAttr "curve26.translateX" 0;
+setAttr "curve26.translateY" 0;
+setAttr "curve26.translateZ" 0;
+setAttr "curve26.rotateX" 0;
+setAttr "curve26.rotateY" 0;
+//pointer one
+setAttr "curve27.rotateZ" 0;
+setAttr "curve27.translateX" 0;
+setAttr "curve27.translateY" 0;
+setAttr "curve27.translateZ" 0;
+setAttr "curve27.rotateX" 0;
+setAttr "curve27.rotateY" 0;
+//pointer two
+setAttr "curve28.rotateZ" 0;
+setAttr "curve28.translateX" 0;
+setAttr "curve28.translateY" 0;
+setAttr "curve28.translateZ" 0;
+setAttr "curve28.rotateX" 0;
+setAttr "curve28.rotateY" 0;
+//pointer three
+setAttr "curve29.rotateZ" 0;
+setAttr "curve29.translateX" 0;
+setAttr "curve29.translateY" 0;
+setAttr "curve29.translateZ" 0;
+setAttr "curve29.rotateX" 0;
+setAttr "curve29.rotateY" 0;
+//mid one
+setAttr "curve32.rotateZ" 0;
+setAttr "curve32.translateX" 0;
+setAttr "curve32.translateY" 0;
+setAttr "curve32.translateZ" 0;
+setAttr "curve32.rotateX" 0;
+setAttr "curve32.rotateY" 0;
+//mid two
+setAttr "curve31.rotateZ" 0;
+setAttr "curve31.translateX" 0;
+setAttr "curve31.translateY" 0;
+setAttr "curve31.translateZ" 0;
+setAttr "curve31.rotateX" 0;
+setAttr "curve31.rotateY" 0;
+//mid three
+setAttr "curve30.rotateZ" 0;
+setAttr "curve30.translateX" 0;
+setAttr "curve30.translateY" 0;
+setAttr "curve30.translateZ" 0;
+setAttr "curve30.rotateX" 0;
+setAttr "curve30.rotateY" 0;
+//ring one
+setAttr "curve35.rotateZ" 0;
+setAttr "curve35.translateX" 0;
+setAttr "curve35.translateY" 0;
+setAttr "curve35.translateZ" 0;
+setAttr "curve35.rotateX" 0;
+setAttr "curve35.rotateY" 0;
+//ring two
+setAttr "curve34.rotateZ" 0;
+setAttr "curve34.translateX" 0;
+setAttr "curve34.translateY" 0;
+setAttr "curve34.translateZ" 0;
+setAttr "curve34.rotateX" 0;
+setAttr "curve34.rotateY" 0;
+//ring three
+setAttr "curve33.rotateZ" 0;
+setAttr "curve33.translateX" 0;
+setAttr "curve33.translateY" 0;
+setAttr "curve33.translateZ" 0;
+setAttr "curve33.rotateX" 0;
+setAttr "curve33.rotateY" 0;
+//pinky one 
+setAttr "curve36.rotateZ" 0;
+setAttr "curve36.translateX" 0;
+setAttr "curve36.translateY" 0;
+setAttr "curve36.translateZ" 0;
+setAttr "curve36.rotateX" 0;
+setAttr "curve36.rotateY" 0;
+//pinky two 
+setAttr "curve38.rotateZ" 0;
+setAttr "curve38.translateX" 0;
+setAttr "curve38.translateY" 0;
+setAttr "curve38.translateZ" 0;
+setAttr "curve38.rotateX" 0;
+setAttr "curve38.rotateY" 0;
+//pinky three
+setAttr "curve37.rotateZ" 0;
+setAttr "curve37.translateX" 0;
+setAttr "curve37.translateY" 0;
+setAttr "curve37.translateZ" 0;
+setAttr "curve37.rotateX" 0;
+setAttr "curve37.rotateY" 0;
+//select hand curves
+select -tgl curve24 ;
+select -tgl curve25 ;
+select -tgl curve26 ;
+select -tgl curve27 ;
+select -tgl curve28 ;
+select -tgl curve29 ;
+select -tgl curve32 ;
+select -tgl curve31 ;
+select -tgl curve30 ;
+select -tgl curve35 ;
+select -tgl curve34 ;
+select -tgl curve33 ;
+select -tgl curve36 ;
+select -tgl curve38 ;
+select -tgl curve37 ;

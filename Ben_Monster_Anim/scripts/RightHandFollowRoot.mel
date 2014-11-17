@@ -1,0 +1,9 @@
+select -r anim_r_wrist;
+
+setAttr "anim_r_wrist_parentConstraint1.anim_root_controlW0" 1;
+
+window -width 150;
+columnLayout -adjustableColumn true;
+    text -label "You Changed follow to Root";
+
+showWindow;
