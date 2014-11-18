@@ -1,6 +1,6 @@
 //Maya ASCII 2014 scene
 //Name: Ben_Anim_File.ma
-//Last modified: Mon, Nov 17, 2014 08:50:09 PM
+//Last modified: Mon, Nov 17, 2014 08:55:13 PM
 //Codeset: 1252
 requires maya "2014";
 currentUnit -l centimeter -a degree -t film;
@@ -12,8 +12,8 @@ fileInfo "osv" "Microsoft Windows 7 Home Premium Edition, 64-bit Windows 7 Servi
 fileInfo "license" "student";
 createNode transform -s -n "persp";
 	setAttr ".v" no;
-	setAttr ".t" -type "double3" -9.3771456269776081 3.1634818782827274 -10.105494684523512 ;
-	setAttr ".r" -type "double3" -0.33834655250815177 578.20000000018672 0 ;
+	setAttr ".t" -type "double3" -12.734361556392724 3.9122347977054845 -6.2553111458796709 ;
+	setAttr ".r" -type "double3" -5.1383465524893293 599.40000000006955 0 ;
 createNode camera -s -n "perspShape" -p "persp";
 	setAttr -k off ".v" no;
 	setAttr ".fl" 34.999999999999986;
