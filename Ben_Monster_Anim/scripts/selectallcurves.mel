@@ -1,20 +1,59 @@
-select -tgl anim_root_control ;
-select -r anim_l_wrist;
-select -tgl anim_r_wrist;
-select -tgl anim_l_leg;
-select -tgl anim_r_leg;
-select -tgl curve23;
-select -tgl foot;
-select -tgl anim_root_control;
-select -tgl anim_l_legpole1;
-select -tgl anim_l_legpole;
-select -tgl anim_r_legpole;
-select -tgl anim_r_armpole;
-select -tgl curve9;
-select -tgl anim_hip1 ;
-select -tgl anim_back1 ;
-select -tgl anim_chest01 ;
-select -tgl curve7 ;
-select -tgl curve8 ;
-select -tgl anim_l_clav1 ;
-select -tgl anim_r_clav1 ;
+select -r anim_global01
+anim_l_wrist
+fingers:curve36
+fingers:curve38 
+fingers:curve37 
+fingers:curve35 
+fingers:curve34 
+fingers:curve33 
+fingers:curve32 
+fingers:curve31 
+fingers:curve30 
+fingers:curve27 
+fingers:curve28 
+fingers:curve29 
+fingers:curve24 
+fingers:curve25 
+fingers:curve26 
+anim_r_wrist curve36 
+curve38 
+curve37 
+curve35 
+curve34 
+curve33 
+curve32 
+curve31 
+curve30 
+curve27 
+curve28 
+curve29 
+curve24 
+curve25 
+curve26 
+anim_root_control
+anim_hip1 
+anim_back1 
+anim_back2 
+anim_chest01 
+anim_l_clav1 
+anim_r_clav1 
+curve39 
+curve7 
+curve8 
+curve9 
+anim_r_eye 
+curve22 
+curve21 
+curve20 
+anim_l_eye 
+curve19 
+curve17 
+curve15 
+nurbsCircle1 
+anim_r_leg 
+curve23 
+anim_l_leg 
+foot anim_l_legpole1 
+anim_l_legpole 
+anim_r_legpole 
+anim|anim_r_armpole ;
