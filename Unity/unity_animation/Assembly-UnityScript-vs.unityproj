@@ -49,7 +49,7 @@
      <Compile Include="Assets\FBX\mylod.js" />
      <Compile Include="Assets\LOD_Controller.js" />
  <Reference Include="Assembly-UnityScript-firstpass">
- <HintPath>C:/Users/Austin Ratliff/Documents/unity_animation/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
+ <HintPath>C:/Users/Austin Ratliff/Documents/GitHub/austin_ben_rig/Unity/unity_animation/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
  </Reference>
   </ItemGroup>
   <ItemGroup>

@@ -1,9 +1,9 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets\FBX\mylod.js">
     <Files>
-      <File FileName="Assets\FBX\mylod.js" Line="28" Column="4" />
-      <File FileName="Assets\LOD_Controller.js" Line="1" Column="1" />
+      <File FileName="Assets\FBX\mylod.js" Line="27" Column="53" />
+      <File FileName="Assets\LOD_Controller.js" Line="4" Column="37" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

@@ -6,11 +6,14 @@ public var custDist : float;
 
 private var dist : float;
 
+private var lowmonster : GameObject[];
+
 function Start () {
 
 }
 
 function Update () {
+
 
 // Check to see how far low mesh is to  controler 
 
@@ -20,26 +23,20 @@ function Update () {
  		
  		print ('Distance to other' + dist);		
 	}
-
-// Turn of low mesh if distance is close
-
-	if ( dist <= custDist ) {
 	
-		 gameObject.SetActive (false );
+	lowmonster = gameObject.GetComponents.<MeshRenderer>();
+	
+	for (var i = 0; i < lowmonster.length(); i++);
+	
+	{
+	
+	lowmonster[i].enable = false ;
 	
 	}
 	
-// Turn low mesh back on if distance is grater than custDist
-
-	if (dist >= custDist ) {
 	
-		renderer.enabled = true ;
-		
-	}
 	
 }
-
-
 
 //Draw
 
